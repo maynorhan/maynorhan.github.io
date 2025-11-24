@@ -1425,7 +1425,7 @@ pre code {
     vertical-align: middle;
   }
   .links-of-author a::before {
-    background: #ff3873;
+    background: #9e381c;
     display: inline-block;
     margin-right: 3px;
     transform: translateY(-2px);
@@ -3038,7 +3038,7 @@ header.header {
   }
 }
 body {
-  background: url("/images/background.jpg");
+  background: url("/images/wallhaven-9my3o8.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
